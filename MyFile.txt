@@ -1,3 +1,5 @@
 first change
 this is second line 2nd change
-some changes 
+some changes
+some functionality  
+git is secure
