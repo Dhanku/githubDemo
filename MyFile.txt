@@ -4,3 +4,4 @@ some changes
 some functionality  
 git is secure
 Adding this code
+new code
